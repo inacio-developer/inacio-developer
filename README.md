@@ -3,7 +3,7 @@
 
 <a href="https://www.linkedin.com/in/inacio-developer/"><img alt="Likedin" height="25px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <p>
-Eu sou Rafael Inácio, graduando em Engenharia de Software e desenvolvedor full stack, especializado nas linguagens C# e Javascript. Conheci o setor de desenvolvimento em 2022, quando me apaixonei pelos “três mosqueteiros” da programação web: HTML, CSS e Javascript. Posteriormente, realizei cursos e bootcamps focados no ecossistema .NET.
+Eu sou Rafael Inácio, graduando em Engenharia de Software e desenvolvedor full stack, especializado na linguagem Javascript. Conheci o setor de desenvolvimento em 2022, quando me apaixonei pelos “três mosqueteiros” da programação web: HTML, CSS e Javascript. Posteriormente, realizei cursos e bootcamps focados em Node.js.
 </p>
 <ul>
   <li>
@@ -13,7 +13,7 @@ Eu sou Rafael Inácio, graduando em Engenharia de Software e desenvolvedor full 
     👩‍💻 Meu objetivo é trabalhar com programação web;
   </li>
   <li>
-    📚 Atualmente estou aprimorando meus conhecimentos no ecossistema .NET;
+    📚 Atualmente estou aprimorando meus conhecimentos no front-end;
   </li>
   <li>
     ❓ Curiosidade: One Piece é minha animação favorita;
