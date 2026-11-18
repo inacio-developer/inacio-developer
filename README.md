@@ -3,7 +3,7 @@
 **Engenheiro de IA & Backend (AI Engineer)** · Python · IA Generativa · Agentes de IA · LLMs
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/inacio-developer)
-[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@SEU_USUARIO)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@rafaelinacio.articles)
 
 Construo sistemas de IA que vão para produção e se pagam: plataformas que centralizam aplicações de IA, agentes com saída estruturada, pipelines de documentos e áudio, e arquitetura de dados de baixo custo na nuvem.
 
