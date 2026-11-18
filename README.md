@@ -1,46 +1,45 @@
-<img width='100%' src="https://s12.gifyu.com/images/SczSg.gif">
+<h2>Olá, eu sou o Rafael Inácio 👋</h2>
 
+**Engenheiro de IA & Backend (AI Engineer)** · Python · IA Generativa · Agentes de IA · LLMs
 
-<a href="https://www.linkedin.com/in/inacio-developer/"><img alt="Likedin" height="25px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<p>
-Eu sou Rafael Inácio, graduando em Engenharia de Software e desenvolvedor full stack, especializado na linguagem Javascript. Conheci o setor de desenvolvimento em 2022, quando me apaixonei pelos “três mosqueteiros” da programação web: HTML, CSS e Javascript. Posteriormente, realizei cursos e bootcamps focados em Node.js.
-</p>
-<ul>
-  <li>
-    📍 Belo Horizonte, Minas Gerais, Brasil;
-  </li>
-  <li>
-    👩‍💻 Meu objetivo é trabalhar com programação web;
-  </li>
-  <li>
-    📚 Atualmente estou aprimorando meus conhecimentos no front-end;
-  </li>
-  <li>
-    ❓ Curiosidade: One Piece é minha animação favorita;
-  </li>
-  <li>
-    💆‍♂️ Hobbies: sou apaixonado por futebol e basquete.
-  </li>
-</ul>
-<hr>
-<div display="inline-block">
-<img alt="tecnologias" height="25px" src="https://svgshare.com/i/vjR.svg">
-<img alt="Javascript" height="25px" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-<img alt="jQuery" height="25px" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
-<img alt="html" height="25px" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img alt="CSS" height="25px" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-<img alt="jQuery" height="25px" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-<img alt="Node.js" height="25px" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"> 
-<br>
-<img alt="ferramentas" height="25px" src="https://svgshare.com/i/vja.svg">
-<img alt="Adobe Lightroom" height="25px" src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white">
-<img alt="Adobe Photoshop" height="25px" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black">
-<img alt="Adobe Premiere" height="25px" src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-adge&logo=Adobe%20Premiere%20Pro&logoColor=white">
-<img alt="Canva" height="25px" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white">
-<img alt="Figma" height="25px" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
-<img alt="Git" height="25px" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
-<img alt="GitHub" height="25px" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
-<img alt="GitHub" height="25px" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white">
-<img alt="Visual Studio Code" height="25px" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white">
-<img alt="Visual Studio Code" height="25px" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-ge&logo=visual%20studio%20code&logoColor=white">
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/inacio-developer)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@SEU_USUARIO)
+
+Construo sistemas de IA que vão para produção e se pagam: plataformas que centralizam aplicações de IA, agentes com saída estruturada, pipelines de documentos e áudio, e arquitetura de dados de baixo custo na nuvem.
+
+Hoje sou desenvolvedor de software (Backend Python e IA) em uma legaltech. Comecei em suporte e automação (RPA e integrações) e hoje trabalho com IA aplicada.
+
+### 🚀 O que já entreguei
+
+- **Plataforma Centralizada de IA (Monolito Modular em Python):** reuni aplicações de IA que estavam espalhadas em uma única plataforma com filas por aplicação (RabbitMQ), PostgreSQL, Cloud Run e LLMs (Gemini e Claude), com controle de tokens e custo. Resultado: **−43% no custo diário de infraestrutura**, **−45% no custo médio por tarefa** e **722 testes automatizados**.
+- **Classificador de dados com LLMs:** dois leitores e um juiz que decide só as divergências. Acurácia subiu de **87% para 92%**, erro caiu de **7% para 2,5%** e tarefas pesadas passaram de **4h42 para 6 min**.
+- **Agentes de IA personalizáveis:** versionados e com saída em JSON Schema. **31/31 casos corretos** e **86% de concordância** com especialistas.
+- **Cache analítico na AWS:** Athena UNLOAD → Parquet (ZSTD) no S3 → DuckDB. **−98,6% no custo de dados** e mediana de **3,3 s por consulta**.
+- **Automação:** criei **21 robôs e apps** de RPA e integração que seguem em produção.
+
+### 🛠️ Stack
+
+**IA e LLMs**<br>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini_(Vertex_AI)-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
+![Whisper](https://img.shields.io/badge/Whisper-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+**Backend e dados**<br>
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+
+**Cloud e ferramentas**<br>
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+### 📌 Sobre mim
+
+- 📍 Belo Horizonte, MG, Brasil
+- 🎓 Graduando em Engenharia de Software
+- ✍️ Escrevo sobre engenharia de software no Medium
+- ⚽ Nas horas vagas: futebol, basquete e One Piece
